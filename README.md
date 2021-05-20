@@ -1,3 +1,3 @@
 # test
 
-I'm testing out some changes to see if i can use the repository correctly.
+Ok. Now I'm changing in the browser to see if it works. 
